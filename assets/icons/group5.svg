@@ -1,0 +1,6 @@
+<svg width="342" height="257" viewBox="0 0 342 257" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="171.75" y1="29" x2="171.75" y2="257" stroke="#D0D5DD" stroke-width="1.5" stroke-dasharray="1 1"/>
+<circle cx="174" cy="102" r="101.5" fill="white" stroke="#D0D5DD"/>
+<rect x="302" y="64" width="69" height="257" transform="rotate(90 302 64)" fill="white"/>
+<path d="M162.693 131.679H173.164V71.8742C172.221 72.5659 171.151 73.2577 169.957 73.9494L159.203 80.0809L158.448 78.8546C162.599 76.5278 166.372 74.2953 169.768 72.1571C173.164 70.019 176.371 67.4406 179.39 64.4221H181.276V131.679H191.747V133H162.693V131.679Z" fill="#001C33"/>
+</svg>

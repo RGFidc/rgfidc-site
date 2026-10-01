@@ -1,0 +1,21 @@
+<svg width="988" height="416" viewBox="0 0 988 416" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 351.5V415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M114 330L114 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M211 302L211 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M308 238L308 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M405 266C405 320.626 405 415 405 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M503 200L503 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M598 143L598 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M695 96L695 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M793 61L793 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M893 2L893 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M985 17L985 415" stroke="#98A2B3" stroke-dasharray="2 4"/>
+<path d="M1 351L113.5 330.262L210 300.926L307.5 237.701L404 266.026L502.5 199.261L598.668 142.106L695.5 95.5725L793 60.6725L892.5 2L987 17.1739" stroke="#003866" stroke-width="2"/>
+<path d="M113.5 330.262L1 351V416H987V17.1739L892.5 2L793 60.6725L695.5 95.5725L598.668 142.106L502.5 199.261L404 266.026L307.5 237.701L210 300.926L113.5 330.262Z" fill="url(#paint0_linear_454_47617)"/>
+<defs>
+<linearGradient id="paint0_linear_454_47617" x1="471" y1="57" x2="494" y2="416" gradientUnits="userSpaceOnUse">
+<stop stop-color="#002F55" stop-opacity="0.19"/>
+<stop offset="1" stop-color="#1D2939" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
